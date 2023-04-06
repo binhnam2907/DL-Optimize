@@ -1,3 +1,5 @@
+GG Drive link cho colab: https://drive.google.com/drive/folders/105QyK9zUY8TBHmxDFqFcmo2KHkSAMGGt?usp=sharing
+
 ### Trong project này, mình xây dựng một số hàm optimize cơ bản được sử dụng nhiều trong Deeplearning
 
 1. Gradient Descent: Là thuật toán đi tìm điểm minimum của một function dụa trên tính toán gradient của function đó. Function này phải thỏa mãn điều kiện là liên tục và có thể đạo hàm được phần lớn ở mọi nơi. Phương pháp này ta sẽ chọn một điểm xuất phát ngẫu nhiên (1 điểm bất kỳ trên function) sau đó dựa vào độ dốc và hướng của gradient để đi ngược hướng và tiến về nơi có vị trị thấp hơn, việc này được lặp đi lặp lại cho đến khi tìm được điểm minimum hoặc thỏa mãn điều kiện dừng.
